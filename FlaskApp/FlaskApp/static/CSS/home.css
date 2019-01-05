@@ -1,0 +1,68 @@
+.navbar-custom{
+	background: #4E4E50!important;
+}
+
+.supplement-text-color {
+	/*color: #1db954!important;*/
+	color: #4E4E50;
+}
+
+.background-color {
+	/*
+	background-image: url("../Images/dark-wood-background.jpg");
+	background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    background-size:cover
+    */
+    background-color: #1A1A1D!important;
+}
+
+.text-primary-green {
+	color : #86C232!important;
+}
+
+.text-primary-blue {
+	/*color : #66FCF1!important;*/
+	color: #C3073F!important;
+}
+
+.metallic-grey {
+	color: #A7A7A8!important;
+}
+
+.icons {
+	background-color: #C5C6C7!important;
+}
+
+p {
+	color: #ffffff;
+}
+
+h1 {
+	color: #ffffff;
+}
+
+h2 {
+	color: #ffffff;
+}
+.body-image {
+   max-width:95%;
+   max-height:95%;
+   border-bottom: 15px;
+}
+
+
+a.blue-link:hover {
+	color: #C3073F!important;
+}
+
+*[x-apple-data-detectors] {
+    border-bottom: 0 !important;
+    cursor: default !important;
+    color: #C3073F !important;
+    text-decoration: none !important;
+}
+
+
+
